@@ -20,8 +20,8 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
   contract MyToken {
 
     // public variables here
-    string public tokenName = "MANGO";
-    string public tokenAbbrv = "MNG";
+    string public tokenName = "BITCOIN";
+    string public tokenAbbrv = "BTC";
     uint public totalSupply = 0;
 
     // mapping variable here
@@ -51,4 +51,4 @@ Once the code is `compiled`, you can deploy the contract by clicking on the "Dep
 Once the contract is deployed, you can interact with it by calling the mint and burn functions. You can add and subtract tokens using the dropdown menu along the mint and burn functions and entering the value to be operated.
 
 # Author
-Aryan Sharma
+Hardik Khurana
